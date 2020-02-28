@@ -1,4 +1,4 @@
-
+-- Aurthor : Teboho Romeo Lekhalo
 CREATE TABLE Customers
 (
     CustomerID SERIAL PRIMARY KEY,

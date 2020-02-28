@@ -1,3 +1,4 @@
+-- Aurthor : Teboho Romeo Lekhalo
 SELECT *
 FROM Customers;
 
