@@ -67,7 +67,7 @@ VALUES
 INSERT INTO Products
     (ProductID, ProductName, Description, Price)
 VALUES
-    (1, 'Harley Davidson Chopper', 'This reeplica features working kickstand, front suspension, gear-shift lever', '150.75'),
+    (1, 'Harley Davidson Chopper', 'This replica features working kickstand, front suspension, gear-shift lever', '150.75'),
     (2, 'Classic Car', 'Turnable front wheels, steering function', '550.75'),
     (3, 'Sports Car', 'Turnable front wheels, steering function', '700.60');
 
