@@ -9,7 +9,7 @@ SELECT FirstName
 FROM Customers
 WHERE CustomerID=1;
 
-UPDATE Customers SET FirstName='Nothile' WHERE CustomerID=1;
+UPDATE Customers SET FirstName='lerato Mabitso' WHERE CustomerID=1;
 
 DELETE FROM Customers WHERE CustomerID=2;
 
